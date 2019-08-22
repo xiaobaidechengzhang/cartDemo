@@ -1,6 +1,6 @@
 # cartreform
 
-> A Vue.js project
+>vue+vuerouter+vuex做的购物网站 有简单用到jq和bs 
 
 ## Build Setup
 
