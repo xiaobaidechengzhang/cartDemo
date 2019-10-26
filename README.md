@@ -21,6 +21,8 @@
 >项目交互使用的是vue的语法，加入购物车，购物车结算用的是vuex存储state和获取，vuerouter切换页面
 
 >功能虽然不复杂，但是是这一段自学时间以来知识点的总结
+>下面是demo的gif
+![demo gif](https://github.com/xiaobaidechengzhang/cartDemo/blob/master/cartDemo.gif)
 
 ### Build Setup
 
